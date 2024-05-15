@@ -1,0 +1,42 @@
+{
+  "files": {
+    "main.css": "/better-field-serverInfo/static/css/main.927f3f6b.css",
+    "main.js": "/better-field-serverInfo/static/js/main.588c52b0.js",
+    "static/media/type=BF5, State=Hover.svg": "/better-field-serverInfo/static/media/type=BF5, State=Hover.d6027b7c2b9b3e74ad93.svg",
+    "static/media/type=BF5, State=Current.svg": "/better-field-serverInfo/static/media/type=BF5, State=Current.9a8f2718c600159b4943.svg",
+    "static/media/type=BF5, State=Default.svg": "/better-field-serverInfo/static/media/type=BF5, State=Default.e83396c1180a154e7e20.svg",
+    "static/media/type=BF1, State=Hover.svg": "/better-field-serverInfo/static/media/type=BF1, State=Hover.0fb1ab6856e26326e5d1.svg",
+    "static/media/type=BF1, State=Current.svg": "/better-field-serverInfo/static/media/type=BF1, State=Current.4b9fecb0b92080ee3243.svg",
+    "static/media/type=BF1, State=Default.svg": "/better-field-serverInfo/static/media/type=BF1, State=Default.57966f8e4e3253a76556.svg",
+    "static/media/type=BF4, State=Hover.svg": "/better-field-serverInfo/static/media/type=BF4, State=Hover.baae9c19747c309d73ad.svg",
+    "static/media/type=BF4, State=Current.svg": "/better-field-serverInfo/static/media/type=BF4, State=Current.4bcbb95b1bb964c62ca8.svg",
+    "static/media/type=BF4, State=Default.svg": "/better-field-serverInfo/static/media/type=BF4, State=Default.2afcaaba68845b491f45.svg",
+    "static/media/type=BH, State=Hover.svg": "/better-field-serverInfo/static/media/type=BH, State=Hover.4778006b41ca27504a09.svg",
+    "static/media/type=BH, State=Current.svg": "/better-field-serverInfo/static/media/type=BH, State=Current.8aae05c5a64e815be0b1.svg",
+    "static/media/type=BH, State=Default.svg": "/better-field-serverInfo/static/media/type=BH, State=Default.bbd5ce1fc2dfcf0995e9.svg",
+    "static/media/menu__background.jpg": "/better-field-serverInfo/static/media/menu__background.96a76398ce6408f8e0b7.jpg",
+    "static/media/type=career, State=Hover.svg": "/better-field-serverInfo/static/media/type=career, State=Hover.9da5dc521e09ecffafe9.svg",
+    "static/media/type=career, State=Current.svg": "/better-field-serverInfo/static/media/type=career, State=Current.547d8c15f6ebaf0ed0dd.svg",
+    "static/media/type=career, State=Default.svg": "/better-field-serverInfo/static/media/type=career, State=Default.1dcc137ab356f543d16b.svg",
+    "static/media/type=news, State=Hover.svg": "/better-field-serverInfo/static/media/type=news, State=Hover.33c012ddd078af22f174.svg",
+    "static/media/type=watch, State=Hover.svg": "/better-field-serverInfo/static/media/type=watch, State=Hover.55885b91fa8a12ffe925.svg",
+    "static/media/type=side-menu__quit-wrapper, State=Current.svg": "/better-field-serverInfo/static/media/type=side-menu__quit-wrapper, State=Current.2250a04350af12e110c9.svg",
+    "static/media/type=side-menu__quit-wrapper, State=Default.svg": "/better-field-serverInfo/static/media/type=side-menu__quit-wrapper, State=Default.8e98218e179f088cb52e.svg",
+    "static/media/type=side-menu__quit-wrapper, State=Hover.svg": "/better-field-serverInfo/static/media/type=side-menu__quit-wrapper, State=Hover.8e98218e179f088cb52e.svg",
+    "static/media/type=side-menu__help-wrapper, State=Current.svg": "/better-field-serverInfo/static/media/type=side-menu__help-wrapper, State=Current.565541200f6c8b7166bb.svg",
+    "static/media/type=side-menu__help-wrapper, State=Default.svg": "/better-field-serverInfo/static/media/type=side-menu__help-wrapper, State=Default.565541200f6c8b7166bb.svg",
+    "static/media/type=side-menu__help-wrapper, State=Hover.svg": "/better-field-serverInfo/static/media/type=side-menu__help-wrapper, State=Hover.565541200f6c8b7166bb.svg",
+    "static/media/type=watch, State=Default.svg": "/better-field-serverInfo/static/media/type=watch, State=Default.32fc0f9329cb6c11fa51.svg",
+    "static/media/type=news, State=Current.svg": "/better-field-serverInfo/static/media/type=news, State=Current.2c38ed1cc3ef21ca0c93.svg",
+    "static/media/type=watch, State=Current.svg": "/better-field-serverInfo/static/media/type=watch, State=Current.9580d2f43db30d512efc.svg",
+    "static/media/type=news, State=Default.svg": "/better-field-serverInfo/static/media/type=news, State=Default.bfcddeabfe3429d7d76f.svg",
+    "index.html": "/better-field-serverInfo/index.html",
+    "static/media/State=Default.svg": "/better-field-serverInfo/static/media/State=Default.4b372a9b2c3fed5562aab410177ca0ca.svg",
+    "main.927f3f6b.css.map": "/better-field-serverInfo/static/css/main.927f3f6b.css.map",
+    "main.588c52b0.js.map": "/better-field-serverInfo/static/js/main.588c52b0.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.927f3f6b.css",
+    "static/js/main.588c52b0.js"
+  ]
+}
