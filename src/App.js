@@ -1,23 +1,24 @@
-import logo from './logo.svg';
-import './App.css';
-
+import React, { useState } from "react";
+import Leftsidetabs from "./Leftsidetabs";
+import BreadCrumb from "./BreadCrumb";
 function App() {
+  const [tab, SetTab] = useState({
+    isBF1: false,
+    isBF4: false,
+    isBF5: false,
+    isBH: false,
+    iscareer: false,
+    iswatch: false,
+    isnews: false,
+    ishelp: false,
+    isquit: false,
+  });
   return (
-    <div className="App">
-      <header className="App-header">
-        <img src={logo} className="App-logo" alt="logo" />
-        <p>
-          Edit <code>src/App.js</code> and save to reload.
-        </p>
-        <a
-          className="App-link"
-          href="https://reactjs.org"
-          target="_blank"
-          rel="noopener noreferrer"
-        >
-          Learn React
-        </a>
-      </header>
+    <div className="app">
+      <Leftsidetabs tab={tab} SetTab={SetTab} />
+      <div className="sideTab-div"></div>
+      <BreadCrumb />
+      <div>SERVER INFO</div>
     </div>
   );
 }
