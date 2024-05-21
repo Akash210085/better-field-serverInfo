@@ -1,6 +1,7 @@
 import React, { useState } from "react";
 import Leftsidetabs from "./Leftsidetabs";
 import BreadCrumb from "./BreadCrumb";
+import ServerContent from "./ServerContent";
 function App() {
   const [tab, SetTab] = useState({
     isBF1: false,
@@ -18,7 +19,8 @@ function App() {
       <Leftsidetabs tab={tab} SetTab={SetTab} />
       <div className="sideTab-div"></div>
       <BreadCrumb />
-      <div>SERVER INFO</div>
+      <div className="heading">SERVER INFO</div>
+      <ServerContent />
     </div>
   );
 }

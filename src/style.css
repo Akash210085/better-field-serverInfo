@@ -102,15 +102,11 @@ img.side-menu__quit-wrapper.Hover {
 }
 
 .bcheader {
-  /* color: white;
-  text-decoration: none;
-  font-size: small;
-  margin-bottom: 20px; */
-
   color: #fff;
   letter-spacing: 0.1vh;
   text-transform: uppercase;
-  font-family: Rajdhani, sans-serif;
+  font-family: "Rajdhani", sans-serif;
+  font-weight: 600;
   font-size: 1.5vh;
   line-height: 2vh;
   text-decoration: none;
@@ -118,5 +114,140 @@ img.side-menu__quit-wrapper.Hover {
 }
 
 .bcheader:hover {
-  font-weight: bold;
+  font-weight: 700;
+}
+
+.heading {
+  font-family: "Rajdhani", sans-serif;
+  font-size: 4vh;
+  font-weight: 600;
+  line-height: 4vh;
+  color: #fff;
+}
+
+.server_content {
+  width: 127vh;
+  height: 82.4vh;
+  border-bottom: 1px rgba(255, 255, 255, 0.1);
+  margin-top: 8vh;
+  position: relative;
+  overflow: auto;
+}
+
+.server-heading {
+  color: #fff;
+  letter-spacing: 0.1vh;
+  margin-bottom: 1vh;
+  font-family: Rajdhani, sans-serif;
+  font-size: 3.1vh;
+  font-weight: 600;
+  line-height: 3.8vh;
+}
+
+.server__info {
+  margin-bottom: 1vh;
+  display: flex;
+}
+
+.server__mode,
+.server__linfo-line,
+.server__game,
+.server__preset,
+.server__no-hz,
+.server__hz {
+  color: rgba(255, 255, 255, 0.8);
+  letter-spacing: 0.1vh;
+  text-transform: uppercase;
+  font-family: Rajdhani, sans-serif;
+  font-size: 1.5vh;
+  font-weight: 600;
+  line-height: 1.8vh;
+  box-sizing: border-box;
+}
+
+.server__desc {
+  width: 80vh;
+  color: rgba(255, 255, 255, 0.8);
+  letter-spacing: 0.08vh;
+  font-family: Rajdhani, sans-serif;
+  font-size: 1.5vh;
+  font-weight: 600;
+  line-height: 1.8vh;
+}
+
+.server__buttons {
+  margin-bottom: 2vh;
+  display: flex;
+}
+
+.server__button {
+  width: 28vh;
+  height: 4.8vh;
+  border: 1px solid rgba(255, 255, 255, 0.2);
+  justify-content: center;
+  align-items: center;
+  margin-right: 1vh;
+  display: flex;
+}
+
+.server__info-box {
+  margin-bottom: 3vh;
+}
+
+.server__button-text {
+  color: #fff;
+  text-align: center;
+  letter-spacing: 0.1vh;
+  text-transform: uppercase;
+  font-family: Rajdhani, sans-serif;
+  font-size: 1.5vh;
+  font-weight: 600;
+  line-height: 1.8vh;
+}
+
+.server__button:hover {
+  background-color: #fff;
+}
+
+.server__next {
+  color: #fff;
+  letter-spacing: 0.1vh;
+  margin-bottom: 1.5vh;
+  font-family: Rajdhani, sans-serif;
+  font-size: 1.5vh;
+  font-weight: 600;
+  line-height: 1.8vh;
+}
+
+.server__map {
+  width: 28vh;
+  height: 15.5vh;
+}
+
+.server__map-image {
+  width: 100%;
+  height: 6.6vh;
+}
+
+.server__map-text1 {
+  letter-spacing: 0.1vh;
+  text-transform: uppercase;
+  padding-top: 2vh;
+  padding-left: 2vh;
+  padding-right: 2vh;
+  font-family: Rajdhani, sans-serif;
+  font-size: 1.6vh;
+  font-weight: 700;
+  line-height: 2vh;
+}
+
+.server__map-text2 {
+  letter-spacing: 0.1vh;
+  text-transform: uppercase;
+  margin-left: 2vh;
+  margin-right: 2vh;
+  font-family: Rajdhani, sans-serif;
+  font-size: 1.6vh;
+  font-weight: 700;
+  line-height: 2vh;
 }
