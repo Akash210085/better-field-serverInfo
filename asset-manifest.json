@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/better-field-serverInfo/static/css/main.02256184.css",
-    "main.js": "/better-field-serverInfo/static/js/main.c0d09f77.js",
+    "main.js": "/better-field-serverInfo/static/js/main.d6c1bf74.js",
     "static/media/browser__SI-next-image-w.svg": "/better-field-serverInfo/static/media/browser__SI-next-image-w.6a44efa5ec73f9e91a5894c3bfefdb70.svg",
     "static/media/browser__SI-next-image-w(1).svg": "/better-field-serverInfo/static/media/browser__SI-next-image-w(1).3fe4aab160414b2f7c90d8fbf040de63.svg",
     "static/media/type=BF5, State=Hover.svg": "/better-field-serverInfo/static/media/type=BF5, State=Hover.d6027b7c2b9b3e74ad93.svg",
@@ -35,10 +35,10 @@
     "static/media/type=news, State=Default.svg": "/better-field-serverInfo/static/media/type=news, State=Default.bfcddeabfe3429d7d76f.svg",
     "static/media/State=Default.svg": "/better-field-serverInfo/static/media/State=Default.4b372a9b2c3fed5562aab410177ca0ca.svg",
     "main.02256184.css.map": "/better-field-serverInfo/static/css/main.02256184.css.map",
-    "main.c0d09f77.js.map": "/better-field-serverInfo/static/js/main.c0d09f77.js.map"
+    "main.d6c1bf74.js.map": "/better-field-serverInfo/static/js/main.d6c1bf74.js.map"
   },
   "entrypoints": [
     "static/css/main.02256184.css",
-    "static/js/main.c0d09f77.js"
+    "static/js/main.d6c1bf74.js"
   ]
 }
