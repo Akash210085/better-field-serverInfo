@@ -164,6 +164,18 @@ function ServerContent() {
           <Grid item xs={3}>
             <Image />
           </Grid>
+          <Grid item xs={3}>
+            <Image />
+          </Grid>
+          <Grid item xs={3}>
+            <Image />
+          </Grid>
+          <Grid item xs={3}>
+            <Image />
+          </Grid>
+          <Grid item xs={3}>
+            <Image />
+          </Grid>
         </Grid>
       </div>
     </div>
